@@ -1,6 +1,6 @@
 # 🌌 Galaxy Morphology Classification
 
-A machine learning project for automatic classification of galaxy morphologies from images, developed as part of the *Machine Learning* course (BSc, University of Pavia, 2025).
+A machine learning project for automatic classification of galaxy morphologies from images, developed as part of the *Machine Learning* course (MSc, University of Pavia, 2025).
 
 Two classification approaches are implemented and compared: a **Logistic Regression** model with handcrafted features and a **Convolutional Neural Network** based on transfer learning with ResNet50.
 
